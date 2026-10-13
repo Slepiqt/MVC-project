@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\bin\Debug\net8.0\PuteshestvieMVC.exe
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\bin\Debug\net8.0\PuteshestvieMVC.deps.json
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\bin\Debug\net8.0\PuteshestvieMVC.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\bin\Debug\net8.0\PuteshestvieMVC.dll
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\bin\Debug\net8.0\PuteshestvieMVC.pdb
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\obj\Debug\net8.0\PuteshestvieMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\obj\Debug\net8.0\PuteshestvieMVC.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\obj\Debug\net8.0\PuteshestvieMVC.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\obj\Debug\net8.0\PuteshestvieMVC.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\obj\Debug\net8.0\PuteshestvieMVC.dll
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\obj\Debug\net8.0\refint\PuteshestvieMVC.dll
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\obj\Debug\net8.0\PuteshestvieMVC.pdb
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\obj\Debug\net8.0\PuteshestvieMVC.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\PuteshestvieMVC\obj\Debug\net8.0\ref\PuteshestvieMVC.dll

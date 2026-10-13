@@ -1,0 +1,7 @@
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\Puteshestvie\bin\Debug\Puteshestvie.exe.config
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\Puteshestvie\bin\Debug\Puteshestvie.exe
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\Puteshestvie\bin\Debug\Puteshestvie.pdb
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\Puteshestvie\obj\Debug\Puteshestvie.csproj.AssemblyReference.cache
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\Puteshestvie\obj\Debug\Puteshestvie.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\Puteshestvie\obj\Debug\Puteshestvie.exe
+C:\Users\atana\OneDrive\Desktop\MVC project\Zad\Puteshestvie\obj\Debug\Puteshestvie.pdb

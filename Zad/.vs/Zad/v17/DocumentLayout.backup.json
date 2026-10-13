@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atana\\OneDrive\\Desktop\\MVC project\\Zad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1196A09B-D144-4BFA-8232-3F4AB73F1298}|PuteshestvieMVC\\PuteshestvieMVC.csproj|c:\\users\\atana\\onedrive\\desktop\\mvc project\\zad\\puteshestviemvc\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1196A09B-D144-4BFA-8232-3F4AB73F1298}|PuteshestvieMVC\\PuteshestvieMVC.csproj|solutionrelative:puteshestviemvc\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1196A09B-D144-4BFA-8232-3F4AB73F1298}|PuteshestvieMVC\\PuteshestvieMVC.csproj|c:\\users\\atana\\onedrive\\desktop\\mvc project\\zad\\puteshestviemvc\\controler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1196A09B-D144-4BFA-8232-3F4AB73F1298}|PuteshestvieMVC\\PuteshestvieMVC.csproj|solutionrelative:puteshestviemvc\\controler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1196A09B-D144-4BFA-8232-3F4AB73F1298}|PuteshestvieMVC\\PuteshestvieMVC.csproj|c:\\users\\atana\\onedrive\\desktop\\mvc project\\zad\\puteshestviemvc\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1196A09B-D144-4BFA-8232-3F4AB73F1298}|PuteshestvieMVC\\PuteshestvieMVC.csproj|solutionrelative:puteshestviemvc\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1196A09B-D144-4BFA-8232-3F4AB73F1298}|PuteshestvieMVC\\PuteshestvieMVC.csproj|c:\\users\\atana\\onedrive\\desktop\\mvc project\\zad\\puteshestviemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1196A09B-D144-4BFA-8232-3F4AB73F1298}|PuteshestvieMVC\\PuteshestvieMVC.csproj|solutionrelative:puteshestviemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\MVC project\\Zad\\PuteshestvieMVC\\Model.cs",
+              "RelativeDocumentMoniker": "PuteshestvieMVC\\Model.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\MVC project\\Zad\\PuteshestvieMVC\\Model.cs",
+              "RelativeToolTip": "PuteshestvieMVC\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T16:37:59.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\MVC project\\Zad\\PuteshestvieMVC\\View.cs",
+              "RelativeDocumentMoniker": "PuteshestvieMVC\\View.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\MVC project\\Zad\\PuteshestvieMVC\\View.cs",
+              "RelativeToolTip": "PuteshestvieMVC\\View.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T16:37:49.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controler.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\MVC project\\Zad\\PuteshestvieMVC\\Controler.cs",
+              "RelativeDocumentMoniker": "PuteshestvieMVC\\Controler.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\MVC project\\Zad\\PuteshestvieMVC\\Controler.cs",
+              "RelativeToolTip": "PuteshestvieMVC\\Controler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T16:38:08.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\MVC project\\Zad\\PuteshestvieMVC\\Program.cs",
+              "RelativeDocumentMoniker": "PuteshestvieMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\MVC project\\Zad\\PuteshestvieMVC\\Program.cs",
+              "RelativeToolTip": "PuteshestvieMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T16:36:19.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
